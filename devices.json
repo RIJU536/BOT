@@ -63,18 +63,5 @@
         "memory": 6155,
         "processor_details": "ARM64 FP ASIMD AES VMH | 3141 | 12",
         "client_ip": "165.196.153.227"
-    },
-    "7953549176": {
-        "unique_device_id": "Google|abd96ee4-56d2-462c-ac26-ede5c06cc7f6",
-        "brand": "OnePlus",
-        "model": "CPH2451",
-        "gpu_renderer": "Adreno (TM) 740",
-        "system_software": "Android OS 13 / API-33",
-        "screen_width": 1080,
-        "screen_height": 1600,
-        "screen_dpi": "379",
-        "memory": 3863,
-        "processor_details": "ARM64 FP ASIMD AES VMH | 2422 | 6",
-        "client_ip": "196.239.88.162"
     }
 }

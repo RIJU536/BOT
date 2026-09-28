@@ -42,7 +42,7 @@ DEVICES_FILE = "devices.json"  # 🔥 NEW: Persistent device storage
 TOKEN_CACHE_TTL = 1200
 
 # 🔥 Match control
-START_MATCH_INTERVAL = 15.0
+START_MATCH_INTERVAL = 3.0
 NEW_MATCH_DELAY = 3.0   
 MAX_MATCH_DURATION = 700
 MATCH_IDLE_TIMEOUT = 8.0
